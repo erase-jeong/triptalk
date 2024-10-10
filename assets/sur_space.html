@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kakao Map Example</title>
+    <!-- Kakao Map JavaScript API -->
+    <script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=f80393dbe795a7735f13f0e6713955a6"></script>
+    <style>
+        #map {
+            width: 100%;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Kakao 지도 예제</h1>
+<div id="map"></div>
+
+<script>
+    // 지도를 표시할 div와 지도 옵션 설정
+    var mapContainer = document.getElementById('map'), // 지도를 표시할 div
+        mapOption = {
+            center: new kakao.maps.LatLng(35.0976, 129.0105), // 지도의 중심좌표
+            level: 3 // 지도의 확대 레벨
+        };
+
+    // 지도를 생성합니다
+    var map = new kakao.maps.Map(mapContainer, mapOption);
+
+    // 여러 마커의 위치, 제목, 설명을 저장하는 배열
+    var positions = [
+        {
+            title: "아미동 비석문화마을",
+            latlng: new kakao.maps.LatLng(35.0993, 129.0126), // 아미동 비석문화마을
+            description: "아미동 비석문화마을은 독특한 역사를 지닌 부산의 문화마을입니다."
+        },
+        {
+            title: "감천문화마을 하늘마루전망대",
+            latlng: new kakao.maps.LatLng(35.0988,129.0103), // 감천문화마을 하늘마루전망대
+            description: "감천문화마을을 한눈에 내려다볼 수 있는 최고의 전망대입니다."
+        },
+        {
+            title: "감천문화마을 작은박물관",
+            latlng: new kakao.maps.LatLng(35.098, 129.0105), // 감천문화마을 작은박물관
+            description: "감천문화마을의 역사를 전시한 작은 규모의 박물관입니다."
+        },
+        {
+            title: "움직이는 사진상점",
+            latlng: new kakao.maps.LatLng(35.0988, 129.0097), // 움직이는 사진상점
+            description: "독특한 컨셉의 사진관으로 유명한 감천문화마을의 명소입니다."
+        },
+        {
+            title: "감천문화마을 전망 포인트",
+            latlng: new kakao.maps.LatLng(35.0973, 129.01), // 감천문화마을 전망 포인트
+            description: "감천문화마을의 아름다운 경관을 감상할 수 있는 포인트입니다."
+        },
+        {
+            title: "어린왕자상",
+            latlng: new kakao.maps.LatLng(35.0978, 129.0085), // 어린왕자상
+            description: "어린왕자 조형물이 있는 포토 스팟입니다."
+        },
+        {
+            title: "별 보러 가는 계단",
+            latlng: new kakao.maps.LatLng(35.0967, 129.0084), // 별 보러 가는 계단
+            description: "감천문화마을의 대표적인 계단으로 유명한 곳입니다."
+        }
+    ];
+
+    // 마커를 생성하고 지도에 표시하는 함수
+    for (var i = 0; i < positions.length; i++) {
+        // 마커를 생성합니다
+        var marker = new kakao.maps.Marker({
+            map: map, // 마커를 표시할 지도
+            position: positions[i].latlng, // 마커의 위치
+            title: positions[i].title // 마커에 표시될 타이틀
+        });
+
+        // 마커 클릭 이벤트 추가 (소개 멘트를 포함한 정보 창 표시)
+        var infowindow = new kakao.maps.InfoWindow({
+            content: '<div style="padding:5px;"><strong>' + positions[i].title + '</strong><br>' + positions[i].description + '</div>'
+        });
+
+        kakao.maps.event.addListener(marker, 'click', makeClickListener(map, marker, infowindow));
+    }
+
+    // 마커 클릭 시 인포윈도우를 표시하는 리스너 함수
+    function makeClickListener(map, marker, infowindow) {
+        return function() {
+            infowindow.open(map, marker);
+        };
+    }
+</script>
+
+</body>
+</html>

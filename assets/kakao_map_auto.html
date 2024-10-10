@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kakao Map Example</title>
+    <!-- Kakao Map JavaScript API -->
+    <script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=f80393dbe795a7735f13f0e6713955a6"></script>
+    <style>
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+    // 지도 초기화
+    var mapContainer = document.getElementById('map'),
+        mapOption = {
+            center: new kakao.maps.LatLng(35.0976, 129.0105), // 초기 중심 좌표
+            level: 3 // 초기 확대 레벨
+        };
+
+    var map = new kakao.maps.Map(mapContainer, mapOption);
+
+        // Flutter에서 현재 위치 전달 시 호출되는 함수
+    function updateMap(lat, lon) {
+        var locPosition = new kakao.maps.LatLng(lat, lon); // 새로운 위치
+        // map.setCenter(locPosition); // 지도 중심을 현재 위치로 이동
+
+        // 지도 현재 중심을 기억
+        var currentCenter = map.getCenter();
+
+        // 현재 위치에 마커 추가
+        var marker = new kakao.maps.Marker({
+            map: map,
+            position: locPosition
+        });
+
+        var infowindow = new kakao.maps.InfoWindow({
+            content: '<div style="padding:5px;">현재 위치</div>'
+        });
+        infowindow.open(map, marker);
+        map.setCenter(currentCenter);
+    }
+
+// Flutter에서 API 데이터를 전달받아 처리하는 함수
+    function updateLocationData(locationData) {
+            // var data = JSON.parse(locationData);
+            var data = locationData;
+
+        // 디버깅용으로 콘솔에 출력 (웹 브라우저의 개발자 도구에서 확인)
+            console.log("Parsed Data:", JSON.stringify(data));
+
+
+
+            // 마커 추가하기 (audioDetails의 데이터로)
+            data.audioDetails.forEach(function(audioDetail, index) {
+                var position = new kakao.maps.LatLng(parseFloat(audioDetail.mapY), parseFloat(audioDetail.mapX));
+                if (index === 0) {
+                    firstMarkerPosition = position; // 첫 번째 마커의 위치 저장
+                }
+                addMarker(position, audioDetail.title);
+
+            });
+
+            if (data.vertexes) {
+            var linePath = data.vertexes.map(function(vertex) {
+
+                return new kakao.maps.LatLng(vertex.y, vertex.x);
+            });
+
+            // 첫 번째 마커 위치로 시선 이동
+            if (firstMarkerPosition) {
+                map.setCenter(firstMarkerPosition); // 첫 번째 마커로 지도 중심 이동
+            }
+
+            var polyline = new kakao.maps.Polyline({
+                path: linePath,
+                strokeWeight: 5,
+                strokeColor: '#FF0000',
+                strokeOpacity: 0.7,
+                strokeStyle: 'solid'
+            });
+
+            polyline.setMap(map);
+        }
+
+        // 마커 추가 함수
+        function addMarker(position, title) {
+            var marker = new kakao.maps.Marker({
+                map: map,
+                position: position,
+                title: title
+            });
+
+            var infowindow = new kakao.maps.InfoWindow({
+                content: `<div style="padding:5px;">${title}</div>`
+            });
+
+            kakao.maps.event.addListener(marker, 'click', function() {
+                infowindow.open(map, marker);
+            });
+        }
+    }
+</script>
+
+</body>
+</html>
