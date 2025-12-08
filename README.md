@@ -7,8 +7,44 @@
 
 ## 👨‍🏫 기획 배경
 
+<br><br>
+
+## 👨‍🏫 서비스 개요
+한국관광공사의 관광지 오디오 가이드 정보 와 를 활용하여 위API Kakao OpenAPI
+치 기반의 관광 정보를 제공하는 대화형 서비스로사용자의 위치를 자동으로 감AI , 
+지하여 관련 관광 정보를 오디오로 안내하며음성 인식 기반의 대화형 는 및 , AI UI 
+음성 인터랙션 기능을 통해 사용자와 소통한다.
+<br><br>
 
 ## 📱 서비스 화면
+
+
+<table> 
+  <tr> 
+    <td align="center"> <b>위치 기반<br>관광지 오디오 가이드 제공</b><br><br> <img src="이미지링크1" width="230"/> </td> 
+    <td align="center"> <b>ㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크2" width="230"/> </td> 
+    <td align="center"> <b>ㄱㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크3" width="230"/> </td> 
+  </tr> 
+  <tr> 
+    <td align="center"> <b>ㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크4" width="230"/> </td> 
+    <td align="center"> <b>ㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크5" width="230"/> </td> 
+    <td align="center"> <b>음성 인식 기반 <br>대화형 
+AI</b><br><br> <img src="이미지링크6" width="230"/> </td> 
+  </tr> 
+
+</table>
+
+
+<br><br>
+
+<br><br>
+
+
+
+## 📱 페이지 별 기능
+
+<br><br>
+<br><br>
 
 
 ## 👨‍👨‍👧‍👧 팀원
@@ -28,6 +64,10 @@
   </tr>
 </table>
 <br><br>
+
+
+
+<img width="819" height="385" alt="image" src="https://github.com/user-attachments/assets/e8434880-c27c-458e-b80e-d187b38158c4" />
 
 
 ## ⚙️ 개발환경
