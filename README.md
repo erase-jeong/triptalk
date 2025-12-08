@@ -1,2 +1,2 @@
-# triptalk7
+# triptalk
 ddd
