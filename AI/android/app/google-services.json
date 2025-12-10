@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839745521219",
+    "project_id": "triptalk-645fd",
+    "storage_bucket": "triptalk-645fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839745521219:android:1bcb9c4a009e3d555af6f6",
+        "android_client_info": {
+          "package_name": "com.example.riptalk_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YQbs4Zb3451_re2FMMjMb8ZBhoDJ-zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839745521219:android:dc7d7a96616e91655af6f6",
+        "android_client_info": {
+          "package_name": "com.example.triptalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YQbs4Zb3451_re2FMMjMb8ZBhoDJ-zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
