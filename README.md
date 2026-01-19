@@ -65,6 +65,10 @@ AI</b><br><br> <img src="이미지링크6" width="230"/> </td>
 </table>
 <br><br>
 
+|  |  |  |  |
+|---|---|---|---|
+| ![step1](step1.png) | ![step2](step2.png) | ![step3](step3.png) | ![step4](step4.png) |
+| 1. 트립톡의 검색창에 원하는 관광지를 검색한다. | 2. 화면에 뜬 관광지 중 원하는 관광지를 클릭한다. | 3. 관광지 정보를 확인한다. (카카오맵 단계별(구), 동네예보) 조회서비스 활용 | 4. 가이드 버튼을 누른다. |
 
 
 <img width="819" height="385" alt="image" src="https://github.com/user-attachments/assets/e8434880-c27c-458e-b80e-d187b38158c4" />
