@@ -1,5 +1,5 @@
 # TripTalk(트립톡) 
-<img width="827" height="372" alt="image" src="https://github.com/user-attachments/assets/f81e61d2-8daf-4a31-b581-a5a520e13128" />
+<img width="827" height="372" alt="image" src="https://github.com/user-attachments/assets/f81e61d2-8daf-4a31-b581-a5a520e13128" /> <br>
 ㅇ 위치 기반 관광 가이드 서비스<br>
 ㅇ 서비스 개발 기간: 2024. 05. 21.(화) → 2024. 10. 01.(화)<br>
 ㅇ 개발 범위: MVP(**Minimum Viable Product)**  <br>
