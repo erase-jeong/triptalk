@@ -40,9 +40,7 @@
 
 ## 서비스 화면
 
-###  일일이 가이드를 찾거나, 시간을 맞출 필요 없는 오로지 나를 위한 여행 가이드 어플리케이션 
-
-#### ㅇ (메인 기능) 자동/수동 관광 및 AI 음성 대화 기능
+## ㅇ **(메인 기능) 자동/수동 관광 및 AI 음성 대화 기능**
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <td colspan="9" style="padding:0; border:0;">
@@ -130,7 +128,7 @@
   </tr>
 </table>
 
-#### ㅇ (서브 기능) 주변 관광지 알림 및 관광지 저장 기능
+## ㅇ **(서브 기능) 주변 관광지 알림 및 관광지 저장 기능**
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <td colspan="9" style="padding:0; border:0;">
