@@ -210,7 +210,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/KimGiheung">
-        <img width="1288" height="1444" alt="image" src="https://github.com/user-attachments/assets/89d44d52-a4ca-4335-8cfe-ad768716f892" />
+        <img width="187" height="187" alt="image" src="https://github.com/user-attachments/assets/89d44d52-a4ca-4335-8cfe-ad768716f892" />
             <td align="center"><a href="https://github.com/erase-jeong"><img src="https://avatars.githubusercontent.com/u/98355440?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/wjdheesp44"><img src="https://avatars.githubusercontent.com/u/49576104?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/wjdheesp44"><img src="https://avatars.githubusercontent.com/u/49576104?v=4" width="100px;" alt=""/>
