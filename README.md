@@ -39,8 +39,6 @@
 
 ## 서비스 화면
 
-
-
 ###  일일이 가이드를 찾거나, 시간을 맞출 필요 없는 오로지 나를 위한 여행 가이드 어플리케이션 
 
 #### ㅇ (메인 기능) 자동/수동 관광 및 AI 음성 대화 기능
@@ -201,37 +199,7 @@
   </tr>
 </table>
 
-## 👨‍🏫 서비스 개요
-
-<br><br>
-
-<table> 
-  <tr> 
-    <td align="center"> <b>위치 기반<br>관광지 오디오 가이드 제공</b><br><br> <img src="이미지링크1" width="230"/> </td> 
-    <td align="center"> <b>ㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크2" width="230"/> </td> 
-    <td align="center"> <b>ㄱㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크3" width="230"/> </td> 
-  </tr> 
-  <tr> 
-    <td align="center"> <b>ㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크4" width="230"/> </td> 
-    <td align="center"> <b>ㄱㄱ<br>ㄱㄱ</b><br><br> <img src="이미지링크5" width="230"/> </td> 
-    <td align="center"> <b>음성 인식 기반 <br>대화형 
-AI</b><br><br> <img src="이미지링크6" width="230"/> </td> 
-  </tr> 
-
-</table>
-
-
-<br><br>
-
-<br><br>
-
-
-
-## 📱 페이지 별 기능
-
-<br><br>
-<br><br>
-
+## 공공데이터 활용 방안
 
 ## 👨‍👨‍👧‍👧 팀원
 
@@ -250,14 +218,6 @@ AI</b><br><br> <img src="이미지링크6" width="230"/> </td>
   </tr>
 </table>
 <br><br>
-
-|  |  |  |  |
-|---|---|---|---|
-| ![step1](step1.png) | ![step2](step2.png) | ![step3](step3.png) | ![step4](step4.png) |
-| 1. 트립톡의 검색창에 원하는 관광지를 검색한다. | 2. 화면에 뜬 관광지 중 원하는 관광지를 클릭한다. | 3. 관광지 정보를 확인한다. (카카오맵 단계별(구), 동네예보) 조회서비스 활용 | 4. 가이드 버튼을 누른다. |
-
-
-<img width="819" height="385" alt="image" src="https://github.com/user-attachments/assets/e8434880-c27c-458e-b80e-d187b38158c4" />
 
 
 ## ⚙️ 개발환경
