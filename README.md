@@ -169,7 +169,7 @@
                          style="display:block; width:240px; height:520px; object-fit:cover;"/>
                 </td>
             </tr>
-          <!--설명 부분-->
+           <!--설명 부분-->
             <tr>
               <td colspan="3" style="width:720px; padding:6px 8px;vertical-align:middle;">
                 <strong style="font-size:1.1em; line-height:1.3;">
