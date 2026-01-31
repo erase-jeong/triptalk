@@ -112,12 +112,14 @@
               </td>
               <td style="width:240px; padding:12px; vertical-align:top;">
                 <h3 style="margin:0;">
-                  5.1 자동 가이드 선택 시 추천 경로와 스팟,<br>
-                  오디오 가이드가 뜸
+                  5.1 자동 가이드 선택 시 추천<br>
+                  경로와 스팟, 오디오 가이드가 뜸
                 </h3>
               </td>
               <td style="width:240px; padding:12px; vertical-align:top;">
-                <h3 style="margin:0;">5.2 수동 가이드 시 추천 경로는 뜨지 않음</h3>
+                <h3 style="margin:0;">
+                    5.2 수동 가이드 시 추천<br>
+                    경로는 뜨지 않음</h3>
               </td>
               <td colspan="3" style="width:720px; padding:12px; vertical-align:top;">
                 <h3 style="margin:0;"> 6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능</h3>
