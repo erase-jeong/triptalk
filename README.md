@@ -200,6 +200,7 @@
 </table>
 
 ## 공공데이터 활용 방안
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f4c4458-8933-4526-a107-6f505ed6b06d" />
 
 ## 👨‍👨‍👧‍👧 팀원
 
