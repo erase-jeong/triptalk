@@ -51,8 +51,7 @@
 
 ###  일일이 가이드를 찾거나, 시간을 맞출 필요 없는 오로지 나를 위한 여행 가이드 어플리케이션 
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-ㅇ 자동/수동 관광 및 AI 음성 대화 기능
+#### ㅇ (메인 기능) 자동/수동 관광 및 AI 음성 대화 기능
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <td colspan="9" style="padding:0; border:0;">
@@ -140,9 +139,70 @@
   </tr>
 </table>
 
-
-
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+#### ㅇ (서브 기능) 주변 관광지 알림 및 관광지 저장 기능
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td colspan="9" style="padding:0; border:0;">
+      <div style="width:100%; overflow-x:auto; overflow-y:hidden; -webkit-overflow-scrolling:touch;">
+        <table style="border-collapse:collapse;">
+          <!-- 이미지 행 -->
+            <tr>
+              <!--주변 관광지 알리미 기능 흐름도-->
+                <td style="padding:0;">
+                    <img width="182" height="382" alt="image" src="https://github.com/user-attachments/assets/26969093-89f5-46a4-94b5-53c083eacf95" 
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+                </td>
+                <td style="padding:0;">
+                    <img width="182" height="381" alt="image" src="https://github.com/user-attachments/assets/1da3fc1d-8d7b-49b0-8a82-6dbca8db5625" 
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+                </td>
+                <td style="padding:0;">
+                <img width="181" height="383" alt="image" src="https://github.com/user-attachments/assets/7728f05a-e372-4e50-8305-d3d83e5dc2d1"
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+              <!--방문 기록 및 북마크 기능-->
+                </td>
+                <td style="padding:0;">
+                    <img width="180" height="383" alt="image" src="https://github.com/user-attachments/assets/1ac43eb6-5bfb-4a0d-be8e-ccee09fc8ec0"
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+                </td>
+                <td style="padding:0;">
+                    <img width="183" height="382" alt="image" src="https://github.com/user-attachments/assets/f30e6fb6-dd84-4506-a847-d4e40646e803"
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+                </td>
+                <td style="padding:0;">
+                    <img width="177" height="382" alt="image" src="https://github.com/user-attachments/assets/88dcdde0-fd75-49fd-a273-72f105319963"
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+              <!--매거진 기능 흐름도-->
+                </td>
+                <td style="padding:0;">
+                    <img width="187" height="387" alt="image" src="https://github.com/user-attachments/assets/925ed5e8-f03d-4bed-a2ec-33c254f96164"
+                         style="display:block; width:240px; height:520px; object-fit:cover;"/>
+                </td>
+            </tr>
+          <!--설명 부분-->
+            <tr>
+              <td colspan="3" style="width:720px; padding:6px 8px;vertical-align:middle;">
+                <strong style="font-size:1.1em; line-height:1.3;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    주변 광광지 알림 기능
+                </strong>
+              <td colspan="3" style="width:720px; padding:6px 8px;vertical-align:middle;">
+                <strong style="font-size:1.1em; line-height:1.3;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    방문 기록 저장 및 북마크 기능
+                </strong>
+              <td colspan="3" style="width:720px; padding:6px 8px;vertical-align:middle;">
+                <strong style="font-size:1.1em; line-height:1.3;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    트립톡 매거진
+                 </strong>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 👨‍🏫 서비스 개요
 
