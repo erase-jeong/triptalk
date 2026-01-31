@@ -73,6 +73,23 @@
     <td>6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능</td>
   </tr>
 </table>
+<table border="1" width="100%">
+  <tr>
+    <td colspan="2">
+      <img src="step_all.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="step_left.png" width="100%"><br>
+      1. 관광지 검색
+    </td>
+    <td>
+      <img src="step_right.png" width="100%"><br>
+      2. 가이드 시작
+    </td>
+  </tr>
+</table>
 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
