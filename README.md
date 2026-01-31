@@ -99,25 +99,25 @@
           </tr>
           <tr>
             <td style="width:240px; padding:10px; vertical-align:top;">
-              1. 트립톡에서 관광지 검색
+              ##1. 트립톡에서 관광지 검색
             </td>
             <td style="width:240px; padding:10px; vertical-align:top;">
-              2. 관광지 선택
+              ## 2. 관광지 선택
             </td>
             <td style="width:240px; padding:10px; vertical-align:top;">
-              3. 관광지 관련 정보 확인
+              ## 3. 관광지 관련 정보 확인
             </td>
             <td style="width:240px; padding:10px; vertical-align:top;">
-              4. 수동/자동 가이드 선택
+              ## 4. 수동/자동 가이드 선택
             </td>
             <td style="width:240px; padding:10px; vertical-align:top;">
-              5.1 자동 가이드 선택 시 추천 경로와 스팟, 오디오 가이드가 뜸
+              ## 5.1 자동 가이드 선택 시 추천 경로와 스팟, 오디오 가이드가 뜸
             </td>
             <td style="width:240px; padding:10px; vertical-align:top;">
-              5.2 수동 가이드 시 추천 경로는 뜨지 않음
+              ## 5.2 수동 가이드 시 추천 경로는 뜨지 않음
             </td>
             <td colspan="3" style="width:720px; padding:10px; vertical-align:top;">
-              6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능
+              ## 6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능
             </td>
           </tr>
         </table>
