@@ -216,19 +216,19 @@
             <tr>
                 <td style="padding:0;">
                     <img alt="step1" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
-                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                         style="display:block; width:200px; height:200px; object-fit:cover;" />
                 </td>
                 <td style="padding:0;">
                     <img alt="step2" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
-                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                         style="display:block; width:200px; height:200px; object-fit:cover;" />
                 </td>
                 <td style="padding:0;">
                     <img alt="step3" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
-                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                         style="display:block; width:200px; height:200px; object-fit:cover;" />
                 </td>
                 <td style="padding:0;">
                     <img alt="step4" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
-                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                         style="display:block; width:200px; height:200px; object-fit:cover;" />
                 </td>
             </tr>
             <tr>
@@ -243,24 +243,7 @@
       </div>
     </td>
   </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/KimGiheung">
-        <img width="187" height="187" alt="image" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5" />
-            <td align="center"><a href="https://github.com/erase-jeong"><img src="https://avatars.githubusercontent.com/u/98355440?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/wjdheesp44"><img src="https://avatars.githubusercontent.com/u/49576104?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/wjdheesp44"><img src="https://avatars.githubusercontent.com/u/49576104?v=4" width="100px;" alt=""/>
-  </tr>
-    <tr>
-    <td align="center"><a href="https://github.com/KimGiheung" title="Code">김기흥(AI) </a></td>
-    <td align="center"><a href="https://github.com/erase-jeong" title="Code">정지우(Front) </a></td>
-    <td align="center"><a href="https://github.com/wjdheesp44" title="Code">정희수(BackEnd)</a></td>
-    <td align="center"><a href="https://github.com/wjdheesp44" title="Code">배지혜(Design)</a></td>
-  </tr>
-</table>
-<br><br>
+</table>>
 
 ## 부록#2 **⚙️ 개발환경**
 
