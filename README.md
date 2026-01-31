@@ -198,12 +198,12 @@
   </tr>
 </table>
 
-## **공공데이터 활용 방안**
+### **공공데이터 활용 방안**
 - **한국관광공사** : 한국관광공사_관광지 오디오 가이드정보_GW
 - **기상청** : 기상청_당기예보 ((구)동네예보) 조회서비스
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f4c4458-8933-4526-a107-6f505ed6b06d" />
 
-## 부록#1 **👨‍👨‍👧‍👧 팀원**
+## <span style="color:gray;">부록#1 팀원👨‍👨‍👧‍👧</span>
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
@@ -243,7 +243,7 @@
   </tr>
 </table>>
 
-## 부록#2 **⚙️ 개발환경**
+## <span style="color:gray;"> ⚙️ 개발환경</span>
 | 🧩 Category | 🔧 Stack |
 |---|---|
 | 🎨 Frontend | Flutter |
