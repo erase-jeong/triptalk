@@ -51,7 +51,99 @@
 
 ###  일일이 가이드를 찾거나, 시간을 맞출 필요 없는 오로지 나를 위한 여행 가이드 어플리케이션 
 
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+<style>
+  .step-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid #000;
+    gap: 0;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
 
+  .step-card {
+    border-right: 2px solid #000;
+    display: grid;
+    grid-template-rows: 1fr auto; /* 위=이미지, 아래=설명 */
+    min-height: 420px;            /* 전체 높이(원하면 조절) */
+    background: #fff;
+  }
+  .step-card:last-child { border-right: 0; }
+
+  .step-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-bottom: 2px solid #000;
+    overflow: hidden;
+  }
+  .step-img img {
+    width: 100%;
+    height: 100%;
+    max-height: 320px;  /* 이미지 영역 높이(원하면 조절) */
+    object-fit: contain; /* 이미지 잘림 없이 맞추기 */
+  }
+
+  .step-text {
+    padding: 12px 14px;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  /* 모바일에서 2열/1열로 자동 변경 */
+  @media (max-width: 900px) {
+    .step-grid { grid-template-columns: repeat(2, 1fr); }
+    .step-card:nth-child(2) { border-right: 0; }
+    .step-card:nth-child(3), .step-card:nth-child(4) { border-top: 2px solid #000; }
+  }
+  @media (max-width: 520px) {
+    .step-grid { grid-template-columns: 1fr; }
+    .step-card { border-right: 0; border-top: 2px solid #000; }
+    .step-card:first-child { border-top: 0; }
+  }
+</style>
+
+<div class="step-grid">
+  <div class="step-card">
+    <div class="step-img">
+      <img src="step1.png" alt="step 1">
+    </div>
+    <div class="step-text">
+      1. 트립톡의 검색창에 원하는 관광지를 검색한다.
+    </div>
+  </div>
+
+  <div class="step-card">
+    <div class="step-img">
+      <img src="step2.png" alt="step 2">
+    </div>
+    <div class="step-text">
+      2. 화면에 뜬 관광지 중 원하는 관광지를 클릭한다.
+    </div>
+  </div>
+
+  <div class="step-card">
+    <div class="step-img">
+      <img src="step3.png" alt="step 3">
+    </div>
+    <div class="step-text">
+      3. 관광지 정보를 확인한다.<br>
+      (카카오맵 단계별(구), 동네예보) 조회서비스 활용
+    </div>
+  </div>
+
+  <div class="step-card">
+    <div class="step-img">
+      <img src="step4.png" alt="step 4">
+    </div>
+    <div class="step-text">
+      4. 가이드 버튼을 누른다.
+    </div>
+  </div>
+</div>
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 ## 👨‍🏫 서비스 개요
 
