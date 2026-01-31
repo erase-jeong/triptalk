@@ -244,4 +244,10 @@
 </table>>
 
 ## 부록#2 **⚙️ 개발환경**
-
+| 🧩 Category | 🔧 Stack |
+|---|---|
+| 🎨 Frontend | Flutter |
+| ⚙️ Backend |  |
+| 🧠 AI | GPT-4o, Whisper, Firebase (Python)|
+| 🎙 Voice | STT / TTS |
+| 🗺 Location | GPS, Map API |
