@@ -203,7 +203,7 @@
 - **기상청** : 기상청_당기예보 ((구)동네예보) 조회서비스
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f4c4458-8933-4526-a107-6f505ed6b06d" />
 
-## <span style="color:gray;">부록#1 팀원👨‍👨‍👧‍👧</span>
+<h2> <span style="color:gray;">부록#1 팀원👨‍👨‍👧‍👧</span></h2>
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
@@ -243,7 +243,7 @@
   </tr>
 </table>>
 
-## <span style="color:gray;"> ⚙️ 개발환경</span>
+<h2> <span style="color:gray;"> ⚙️ 개발환경</span></h2>
 | 🧩 Category | 🔧 Stack |
 |---|---|
 | 🎨 Frontend | Flutter |
