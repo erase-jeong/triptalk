@@ -54,14 +54,26 @@
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 ㅇ 자동/수동 관광 및 AI 음성 대화 기능
 <table>
+
+
   <tr>
-    <td><img src="step1.png"></td>
-    <td><img src="step2.png"></td>
-    <td><img src="step2.png"></td>
-    <td><img src="step2.png"></td>
-    <td><img src="step2.png"></td>
-    <td><img src="step2.png"></td>
-    <td><td><img src="step2.png"></td><img src="step2.png"></td>
+    <td><img width="262" height="576" alt="image" src="https://github.com/user-attachments/assets/029a1851-c2e9-4f6b-952d-97683190e0c1" /></td>
+    <td><img width="227" height="478" alt="image" src="https://github.com/user-attachments/assets/9d3da0ac-209d-47d2-9b3e-b7c75b603635" />
+</td>
+    <td><img width="222" height="478" alt="image" src="https://github.com/user-attachments/assets/de9a0b88-b2cc-4d3a-86b9-cfd9081a459f" />
+</td>
+    <td><img width="223" height="481" alt="image" src="https://github.com/user-attachments/assets/c3605ef3-3419-414a-a7df-69281eefc69c" />
+</td>
+    <td><img width="222" height="492" alt="image" src="https://github.com/user-attachments/assets/3fabcde7-3ed3-489f-b67a-f2fe6673ffae" />
+</td>
+    <td><img width="227" height="487" alt="image" src="https://github.com/user-attachments/assets/fb880c57-f279-4aab-a11a-9fd573b0f102" />
+</td>
+    <td><img width="222" height="490" alt="image" src="https://github.com/user-attachments/assets/5b23511a-3226-4c83-8fef-008a5880d0c4" />
+</td>
+    <td><img width="226" height="497" alt="image" src="https://github.com/user-attachments/assets/4c3f5e97-44cf-490a-977f-84243778089e" />
+</td>
+    <td><img width="223" height="500" alt="image" src="https://github.com/user-attachments/assets/17f8dac1-4ab5-4f60-9697-81c112728056" />
+</td>
   </tr>
   <tr>
     <td>1. 트립톡에서 관광지 검색</td>
@@ -70,24 +82,7 @@
     <td>4. 수동/자동 가이드 선택</td>
     <td>5.1 자동 가이드 선택 시 추천 경로와 스팟, 오디오 가이드가 뜸</td>
     <td>5.2 수동 가이드 시 추천 경로는 뜨지 않음</td>
-    <td>6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능</td>
-  </tr>
-</table>
-<table border="1" width="100%">
-  <tr>
-    <td colspan="2">
-      <img src="step_all.png" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="step_left.png" width="100%"><br>
-      1. 관광지 검색
-    </td>
-    <td>
-      <img src="step_right.png" width="100%"><br>
-      2. 가이드 시작
-    </td>
+    <td colspan="3">6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능</td>
   </tr>
 </table>
 
