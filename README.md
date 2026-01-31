@@ -197,7 +197,7 @@
                 </strong>
               <td colspan="3" style="width:720px; padding:6px 8px;vertical-align:middle;">
                 <strong style="font-size:1.1em; line-height:1.3;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     트립톡 매거진
                  </strong>
               </td>
