@@ -207,6 +207,44 @@
 
 ## 부록#1 **👨‍👨‍👧‍👧 팀원**
 
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td colspan="9" style="padding:0; border:0;">
+      <div style="width:100%; overflow-x:auto; overflow-y:hidden; -webkit-overflow-scrolling:touch;">
+        <table style="border-collapse:collapse;">
+          <!-- 이미지 행 -->
+            <tr>
+                <td style="padding:0;">
+                    <img alt="step1" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
+                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                </td>
+                <td style="padding:0;">
+                    <img alt="step2" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
+                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                </td>
+                <td style="padding:0;">
+                    <img alt="step3" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
+                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                </td>
+                <td style="padding:0;">
+                    <img alt="step4" src="https://github.com/user-attachments/assets/485bd00a-22d3-474d-bb9c-104db801d7f5"
+                         style="display:block; width:240px; height:240px; object-fit:cover;" />
+                </td>
+            </tr>
+            <tr>
+                <td align="center"><a href="https://github.com/KimGiheung" title="Code">김기흥(AI) </a></td>
+                <td align="center"><a href="https://github.com/erase-jeong" title="Code">정지우(Front) </a></td>
+                <td align="center"><a href="https://github.com/wjdheesp44" title="Code">정희수(BackEnd)</a></td>
+                <td align="center"><a href="https://github.com/wjdheesp44" title="Code">배지혜(Design)</a></td>
+                </strong>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/KimGiheung">
