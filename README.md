@@ -126,7 +126,7 @@
                     5.2 수동 가이드 시 추천<br>
                     경로는 뜨지 않음
                 </strong>
-              <td colspan="3" style="width:720px; padding:6px 8px; vertical-align:middle; text-align:center;">
+              <td colspan="3" style="width:720px; padding:6px 8px; text-align:center; vertical-align:middle;">
                 <strong style="font-size:1.1em; line-height:1.3;">
                     6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능
                 </strong>
