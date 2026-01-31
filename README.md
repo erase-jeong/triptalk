@@ -98,33 +98,32 @@
             </td>
           </tr>
             <tr>
-              <td style="width:240px; padding:12px; vertical-align:top;
-                         font-size:16px; font-weight:600; line-height:1.5;">
-                1. 트립톡에서 관광지 검색
+              <td style="width:240px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">1. 트립톡에서 관광지 검색</h3>
               </td>
-              <td style="width:240px; padding:12px; vertical-align:top;
-                         font-size:16px; font-weight:600; line-height:1.5;">
-                2. 관광지 선택
+              <td style="width:240px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">2. 관광지 선택</h3>
               </td>
-              <td style="width:240px; padding:12px; vertical-align:top;
-                         font-size:16px; font-weight:600; line-height:1.5;">
-                3. 관광지 관련 정보 확인
+              <td style="width:240px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">3. 관광지 관련 정보 확인</h3>
               </td>
-              <td style="width:240px; padding:12px; vertical-align:top;
-                         font-size:16px; font-weight:600; line-height:1.5;">
-                4. 수동/자동 가이드 선택
+              <td style="width:240px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">4. 수동/자동 가이드 선택</h3>
               </td>
-              <td style="width:240px; padding:12px; vertical-align:top;
-                         font-size:16px; font-weight:600; line-height:1.5;">
-                5.1 자동 가이드 선택 시 추천 경로와 스팟, 오디오 가이드가 뜸
+              <td style="width:240px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">
+                  5.1 자동 가이드 선택 시 추천 경로와 스팟,<br>
+                  오디오 가이드가 뜸
+                </h3>
               </td>
-              <td style="width:240px; padding:12px; vertical-align:top;
-                         font-size:16px; font-weight:600; line-height:1.5;">
-                5.2 수동 가이드 시 추천 경로는 뜨지 않음
+              <td style="width:240px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">5.2 수동 가이드 시 추천 경로는 뜨지 않음</h3>
               </td>
-              <td colspan="3" style="width:720px; padding:12px; vertical-align:top;
-                                     font-size:16px; font-weight:600; line-height:1.5;">
-                6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능
+              <td colspan="3" style="width:720px; padding:12px; vertical-align:top;">
+                <h3 style="margin:0;">
+                  6. 가이드 종료 후 대화 기능을 통해<br>
+                  궁금한 것을 음성으로 문답 가능
+                </h3>
               </td>
             </tr>
         </table>
