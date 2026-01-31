@@ -52,14 +52,25 @@
 ###  일일이 가이드를 찾거나, 시간을 맞출 필요 없는 오로지 나를 위한 여행 가이드 어플리케이션 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅇ 자동/수동 관광 및 AI 음성 대화 기능
 <table>
   <tr>
     <td><img src="step1.png"></td>
     <td><img src="step2.png"></td>
+    <td><img src="step2.png"></td>
+    <td><img src="step2.png"></td>
+    <td><img src="step2.png"></td>
+    <td><img src="step2.png"></td>
+    <td><td><img src="step2.png"></td><img src="step2.png"></td>
   </tr>
   <tr>
-    <td>1. 검색</td>
-    <td>2. 선택</td>
+    <td>1. 트립톡에서 관광지 검색</td>
+    <td>2. 관광지 선택</td>
+    <td>3. 관광지 관련 정보 확인</td>
+    <td>4. 수동/자동 가이드 선택</td>
+    <td>5.1 자동 가이드 선택 시 추천 경로와 스팟, 오디오 가이드가 뜸</td>
+    <td>5.2 수동 가이드 시 추천 경로는 뜨지 않음</td>
+    <td>6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능</td>
   </tr>
 </table>
 
