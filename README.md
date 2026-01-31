@@ -240,9 +240,10 @@
       </div>
     </td>
   </tr>
-</table>>
+</table>
 
 <h2 style="color:gray;"> ⚙️ 개발환경</h2>
+
 | 🧩 Category | 🔧 Stack |
 |---|---|
 | 🎨 Frontend | Flutter |
