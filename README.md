@@ -126,8 +126,10 @@
                     5.2 수동 가이드 시 추천 경로는<br> 
                     뜨지 않음
                 </strong>
-              <td colspan="3" style="width:720px; padding:6px 8px 6px 24px;vertical-align:middle;">
+              <td colspan="3" style="width:720px; padding:6px 8px;vertical-align:middle;">
                     <strong style="font-size:1.1em; line-height:1.3;">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         6. 가이드 종료 후 대화 기능을 통해 궁금한 것을 음성으로 문답 가능
                     </strong>
                 </div>
